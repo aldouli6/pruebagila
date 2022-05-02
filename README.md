@@ -12,3 +12,4 @@ php artisan passport:install
 
 php artisan serve
 
+dentro de este repo esta el archivo de postman
